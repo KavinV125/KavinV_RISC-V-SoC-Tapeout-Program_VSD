@@ -30,7 +30,7 @@ after this you can access the root.
       sudo make install
    ```
 ### Yosys
-![yosys installation]()
+![yosys installation](https://github.com/KavinV125/KavinV_RISC-V-SoC-Tapeout-Program_VSD/blob/1eb3af8fe89c46e13c0cb3221b83da01a53591aa/yosys%20infinite.jpg)
 
 
 3.📂 Icarus Verilog (iverilog)*  
@@ -41,7 +41,7 @@ after this you can access the root.
       ```
 
 ### Icarus Verilog
-![iverilog installation]()
+![iverilog installation](https://github.com/KavinV125/KavinV_RISC-V-SoC-Tapeout-Program_VSD/blob/1eb3af8fe89c46e13c0cb3221b83da01a53591aa/iverilog%20infinty.jpg)
 
 4. 📂 *GTKWave*  
    ```
@@ -49,7 +49,7 @@ after this you can access the root.
       sudo apt-get install gtkwave
       ```
 ### GTKWave
-![gtkwave installation]()
+![gtkwave installation](https://github.com/KavinV125/KavinV_RISC-V-SoC-Tapeout-Program_VSD/blob/1eb3af8fe89c46e13c0cb3221b83da01a53591aa/gtk%20wave%20infinte.jpg)
 ---
 
 
