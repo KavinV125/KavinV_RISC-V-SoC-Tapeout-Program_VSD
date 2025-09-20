@@ -30,7 +30,7 @@ after this you can access the root.
       sudo make install
    ```
 ### Yosys
-![yosys installation](https://github.com/KavinV125/KavinV_RISC-V-SoC-Tapeout-Program_VSD/blob/1eb3af8fe89c46e13c0cb3221b83da01a53591aa/yosys%20infinite.jpg)
+![yosys installation](https://github.com/KavinV125/KavinV_RISC-V-SoC-Tapeout-Program_VSD/blob/3737a48c3ea201222fef77830dce709ba9af3af7/yosys%20infinite.jpg)
 
 
 3.📂 Icarus Verilog (iverilog)*  
