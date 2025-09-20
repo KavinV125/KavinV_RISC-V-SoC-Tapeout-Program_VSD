@@ -9,7 +9,7 @@ In this week, I installed the following tools required for digital design and ve
 1. 📂 Virtual box :
       install virtual box and create a virtual space with 6 gb ram and 50 gb hdd and 4 cpu.if you can't access the root then use this commands
     ```
-             su
+            su
             usermod -aG sudo username
       ```
 
