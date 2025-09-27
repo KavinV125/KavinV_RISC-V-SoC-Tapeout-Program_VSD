@@ -50,7 +50,7 @@ This README explains the problems, examples, and proper design approaches.
 
 ### Incomplete If Example
 
-```
+```verilog
 module incomp_if (input i0, input i1, input i2, output reg y);
 always @(*)
 begin
@@ -67,7 +67,7 @@ endmodule
 
 ### Incomplete Case Example
 
-```
+```verilog
 module incomp_case (input i0, input i1, input i2, input [1:0] sel, output reg y);
 always @(*)
 begin
@@ -86,7 +86,7 @@ endmodule
 
 ### Partial Case Assignment
 
-```
+```verilog
 module partial_case_assign (input i0, input i1, input i2, input [1:0] sel, output reg y, output reg x);
 always @(*)
 begin
@@ -112,7 +112,7 @@ endmodule
 
 ### Overlapping Case Example
 
-```
+```verilog
 module bad_case (input i0, input i1, input i2, input i3, input [1:0] sel, output reg y);
 always @(*)
 begin
@@ -150,7 +150,7 @@ Verilog loops reduce boilerplate when writing scalable designs.
 
 ### 4:1 Mux using Case
 
-```
+```verilog
 module mux_4to1_case (
     input [3:0] data_in,
     input [1:0] sel,
@@ -175,7 +175,7 @@ endmodule
 
 ### For Loop in Mux
 
-```
+```verilog
 module mux_generate (input i0, input i1, input i2, input i3, input [1:0] sel, output reg y);
 wire [3:0] i_int;
 assign i_int = {i3, i2, i1, i0};
@@ -197,7 +197,7 @@ endmodule
 
 ### Generate For Loop – Ripple Carry Adder
 
-```
+```verilog
 module rca (input [7:0] num1, input [7:0] num2, output [8:0] sum);
 wire [7:0] int_sum;
 wire [7:0] int_co;
