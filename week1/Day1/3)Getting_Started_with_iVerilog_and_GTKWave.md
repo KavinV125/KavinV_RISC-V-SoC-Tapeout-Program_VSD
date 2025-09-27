@@ -88,7 +88,7 @@ gtkwave tb_good_mux.vcd
 - Here you can analyze how inputs vary over time and how outputs respond, verifying your design’s correctness.
     
 
-![gtkwave](https://github.com/DHANASRI-A/RISC-V-Chip-Tapeout/blob/0afafaf3d0cf5ee8484965a2ac05daa466b0150b/Week_1/Day_1/Pictures/gtkwave.png)
+![gtkwave](https://github.com/KavinV125/KavinV_RISC-V-SoC-Tapeout-Program_VSD/blob/507a0c68fa4764a066495f5788f6069563380bf6/week1/Day1/pictures/WhatsApp%20Image%202025-09-27%20at%209.32.07%20PM(1).jpeg)
 
 ---
 
