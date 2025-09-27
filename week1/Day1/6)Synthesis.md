@@ -1,7 +1,5 @@
 # Yosys Synthesis Workflow
 
-![illustration]()
-
 ---
 
 ## Step 1: Complete Command List
@@ -46,7 +44,7 @@ read_liberty -lib ../lib/sky130_fd_sc_hd__tt_025C_1v80.lib
 ```bash
 read_verilog good_mux.v
 ```
-
+![image](https://github.com/KavinV125/KavinV_RISC-V-SoC-Tapeout-Program_VSD/blob/5642d1130f04086cd5be543a2ba18de098e1156f/week1/Day1/pictures/WhatsApp%20Image%202025-09-27%20at%2010.11.46%20PM.jpeg)
 ---
 
 ### 4. Run synthesis on the top module
@@ -55,8 +53,8 @@ read_verilog good_mux.v
 synth -top good_mux
 ```
 
-![image]()
-
+![image](https://github.com/KavinV125/KavinV_RISC-V-SoC-Tapeout-Program_VSD/blob/5642d1130f04086cd5be543a2ba18de098e1156f/week1/Day1/pictures/WhatsApp%20Image%202025-09-27%20at%2010.11.45%20PM.jpeg)
+![image](https://github.com/KavinV125/KavinV_RISC-V-SoC-Tapeout-Program_VSD/blob/5642d1130f04086cd5be543a2ba18de098e1156f/week1/Day1/pictures/WhatsApp%20Image%202025-09-27%20at%2010.11.45%20PM(1).jpeg)
 ---
 
 ### 5. Perform technology mapping with ABC
@@ -73,7 +71,7 @@ abc -liberty ../lib/sky130_fd_sc_hd__tt_025C_1v80.lib
 show
 ```
 
-![output]()
+![output](https://github.com/KavinV125/KavinV_RISC-V-SoC-Tapeout-Program_VSD/blob/5642d1130f04086cd5be543a2ba18de098e1156f/week1/Day1/pictures/WhatsApp%20Image%202025-09-27%20at%2010.11.44%20PM.jpeg)
 
 ---
 
@@ -91,7 +89,7 @@ write_verilog good_mux_netlist.v
 !mousepad good_mux_netlist.v
 ```
 
-![image]()
+![image](https://github.com/KavinV125/KavinV_RISC-V-SoC-Tapeout-Program_VSD/blob/5642d1130f04086cd5be543a2ba18de098e1156f/week1/Day1/pictures/WhatsApp%20Image%202025-09-27%20at%2010.11.44%20PM(1).jpeg)
 
 ---
 
