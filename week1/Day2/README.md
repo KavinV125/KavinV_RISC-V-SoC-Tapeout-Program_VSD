@@ -1,5 +1,3 @@
-Here’s your rephrased content in a clean **GitHub README.md** format with proper structuring, simplified sentences, and developer-focused clarity:  
-
 ***
 
 # Digital Synthesis with Yosys
@@ -196,5 +194,3 @@ The same synthesis flow applies for:
 Only the RTL changes; the synthesis steps remain identical.  
 
 ***
-
-Would you like me to also format this README with **badges (toolchain versions, PDK info, etc.)** at the top like some open-source VLSI repositories use?
