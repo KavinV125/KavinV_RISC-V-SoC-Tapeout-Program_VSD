@@ -27,7 +27,7 @@
         
     - The **testbench** has **no primary inputs or outputs**.
 
-![Week_1/Day_1/Pictures/Testbench.png]()
+![Week_1/Day_1/Pictures/Testbench.png](https://github.com/KavinV125/KavinV_RISC-V-SoC-Tapeout-Program_VSD/blob/44eb8eba60827847d89900a6daf173d6fc72013b/week1/Day1/pictures/Testbench.png)
 
 ---
 
