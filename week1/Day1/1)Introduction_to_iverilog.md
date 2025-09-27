@@ -38,6 +38,7 @@
 - Whenever an input changes, the **corresponding output is recalculated**.
     
 - If the inputs remain unchanged, the output also stays constant.
+
 ![image](https://github.com/KavinV125/KavinV_RISC-V-SoC-Tapeout-Program_VSD/blob/eabdb9ca30b114b73de77a52036b914893e414a7/week1/Day1/pictures/Iverilog.png)    
 
 ---
